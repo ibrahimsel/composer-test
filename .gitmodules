@@ -1,4 +1,4 @@
 [submodule "composer-submodule-test"]
 	path = composer-submodule-test
-	url = git@github.com:ibrahimsel/composer-submodule-test.git
-        branch = main
+	url = https://github.com/ibrahimsel/composer-submodule-test.git
+	branch = main
